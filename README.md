@@ -21,7 +21,6 @@ Um pequeno projeto em **JavaScript** para sortear amigos secretos de forma simpl
 1. Abra o arquivo `index.html` no navegador.
 2. Digite os nomes dos participantes e clique em **Adicionar**.
 3. Clique em **Sortear amigo** para descobrir o amigo secreto.
-4. Opcional: clique em **Resetar** para começar uma nova rodada.
 
 ## 📂 Estrutura do projeto
 
